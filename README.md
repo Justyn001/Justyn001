@@ -15,3 +15,4 @@
    Program for purchasing tickets and booking seats on trains.
 
 **, and here my minor projects:**
+> [Rock 🗿, Paper 📝, Scissors ✂️](https://github.com/Justyn001/Rock_Paper_Scissors_game) (Python)
