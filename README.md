@@ -8,12 +8,20 @@
 
 # My Projects
 
-**Here you will find a list of my main projects:**
-- [Spanning Tree](https://github.com/Justyn001/Spanning-Tree) (𝘊++)
-  A program that finds the minimum spanning tree of a weighted graph.
+**Here you will find a list of my 𝘊++ projects:**
+- [Spanning Tree](https://github.com/Justyn001/Spanning-Tree) (𝘊++) 
+A program that finds the minimum spanning tree of a weighted graph.
   
 - [Booking seats on trains](https://github.com/Justyn001/Booking-seats-on-trains) (𝘊++)
-   Program for purchasing tickets and booking seats on trains.
+Program for purchasing tickets and booking seats on trains.
+
+**, here my 𝘗𝘺𝘵𝘩𝘰𝘯 projects:**
+
+- [Calculator](https://github.com/Justyn001/Calculator) (𝘗𝘺𝘵𝘩𝘰𝘯)
+Python Calculator App using Python and tkinter.
+
+- [Discord Bot](https://github.com/Justyn001/Discord_Bot)(𝘗𝘺𝘵𝘩𝘰𝘯)
+Discord bot with basics commands
 
 **, and here my minor projects:**
 > [Rock 🗿, Paper 📝, Scissors ✂️](https://github.com/Justyn001/Rock_Paper_Scissors_game) (𝘗𝘺𝘵𝘩𝘰𝘯)
