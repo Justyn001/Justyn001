@@ -10,6 +10,9 @@
 # My Projects
 
 **Here you will find a list of my 𝘊++ projects:**
+- [Neural Net](https://github.com/Justyn001/Neural-Net) (𝘊++) 
+My first neural net from scratch.
+
 - [Spanning Tree](https://github.com/Justyn001/Spanning-Tree) (𝘊++) 
 A program that finds the minimum spanning tree of a weighted graph.
   
@@ -26,3 +29,4 @@ Discord bot with basics commands
 
 **, and here my minor projects:**
 > [Rock 🗿, Paper 📝, Scissors ✂️](https://github.com/Justyn001/Rock_Paper_Scissors_game) (𝘗𝘺𝘵𝘩𝘰𝘯)
+> [Quiz Game](https://github.com/Justyn001/QuizGame) (𝘗𝘺𝘵𝘩𝘰𝘯)
