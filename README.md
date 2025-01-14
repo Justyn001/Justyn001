@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.behance.net/gallery/178854929/Monty-Python-and-the-Holy-Grail-pixel-animations/modules/1010208327"  />
+![e58943178854929 64ef50a635f04](https://github.com/user-attachments/assets/ea2b4c62-19b0-4e33-b8bb-dc3eee192c64)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
