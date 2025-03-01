@@ -51,7 +51,7 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="44" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="44" alt="fedora logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="44" alt="pycharm logo"  />
   <img width="13" />
